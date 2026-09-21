@@ -1,3 +1,20 @@
+
+
+
+考雅思的，这个开源项目可以直接拿来练听力。
+
+IELTS Listening Practice 把雅思听力练习直接做成了网页版，不需要安装软件，打开网站就能刷题。
+
+很适合平时拿电脑练精听、熟悉题型，做完直接对照答案，比自己到处找音频、PDF 再来回切换方便多了。
+
+完全开源，想自己部署也可以。
+
+GitHub：github.com/gtiipoi/ielts-…
+
+在线练习：taylorfourier.github.io/ielts-listenin…
+
+
+
 # IELTS Atlas / IELTS Practice
 
 ## 重要使用声明
